@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 21 May 2024 13:06:19 at https://lovely-clicks-666916.framer.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://lovely-clicks-666916.framer.app/ -O1 "C:\My Web Sites\Jack It Up" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:06:23	Error: 	"Not Found" (404) at link https://lovely-clicks-666916.framer.app/&apos;data:image/svg+xml;utf8,%3Csvg xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22 xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22 viewBox%3D%220 0 26 24%22%3E%3Cpath d%3D%22M 26 0 L 26 8 L 18 8 L 10 0 Z M 10 8 L 18 8 L 26 16 L 18 16 L 18 24 L 10 16 Z%22 fill%3D%22hsl(0%2C 0%25%2C 0%25 (from https://lovely-clicks-666916.framer.app/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 seconds : 5 links scanned, 3 files written (4399186 bytes overall) [4363010 bytes received at 872602 bytes/sec], 52449 bytes transferred using HTTP compression in 2 files, ratio 14%, 1.2 requests per connection
+(1 errors, 0 warnings, 0 messages)
